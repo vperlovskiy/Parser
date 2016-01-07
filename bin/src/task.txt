@@ -1,0 +1,10 @@
+Тестовое задание для вакансии http://www.work.ua/jobs/1795220/
+
+1. Написать скрипт на любом языке программирования, который используя регулярные выражения разберет исходный файл и выведет json
+input: http://a-parser.com/files/vacancy.input.txt
+output: http://a-parser.com/files/vacancy.output.txt
+
+2. Перевести на английский часть документации, ДО диаграммы
+http://a-parser.com/wiki/tasks-and-queue/
+
+Результат выслать на forbidden2k@gmail.com с пометкой "Тестовое задание" и ссылкой на профиль на Work.ua
